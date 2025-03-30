@@ -5,4 +5,4 @@ title: 'Every Love Story...'
 ---
 
 
-... ends with letting go.
+...ends in letting go.
