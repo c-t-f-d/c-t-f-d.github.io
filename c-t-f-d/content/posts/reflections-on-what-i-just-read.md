@@ -1,6 +1,6 @@
 ---
 date: '2025-03-30T09:27:23+01:00'
-draft: true
+draft: false
 title: 'Reflections on What I Just Read'
 ---
 

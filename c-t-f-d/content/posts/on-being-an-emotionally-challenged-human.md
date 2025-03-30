@@ -1,6 +1,6 @@
 ---
 date: '2025-03-30T09:30:48+01:00'
-draft: true
+draft: false
 title: 'On Being an Emotionally Challenged Human'
 ---
 
