@@ -16,4 +16,4 @@ But they all tie together.
 
 Because the full quote that inspired this topic is, "Sadly people who aren't very nice do not deserve emotionally challenged people like us."
 
-And this is true. In amongst the chaos of people who struggle emotioanlly, there's typically a heart of gold; easy to break, easy to melt, scarce but not impossibly rare, and unbelievably beautiful.
+And this is true. In amongst the chaos of people who struggle emotionally, there's typically a heart of gold; easy to break, easy to melt, scarce but not impossibly rare, and unbelievably beautiful.
