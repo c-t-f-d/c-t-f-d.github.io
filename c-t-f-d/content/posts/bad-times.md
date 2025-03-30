@@ -4,8 +4,12 @@ draft: false
 title: 'Bad Times'
 ---
 
-Hard work pays off... Dreams come true... Bad times don't last...
+Hard work pays off.
 
-But Bad Guys do.
+Dreams come true.
+
+Bad times don't last.
+
+But Bad Guys *do*.
 
 ^_^
