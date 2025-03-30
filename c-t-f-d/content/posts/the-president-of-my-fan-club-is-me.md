@@ -1,6 +1,6 @@
 ---
 date: '2025-03-30T07:13:05+01:00'
-draft: true
+draft: false
 title: 'The President of My Fan Club Is "Me"'
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: '2025-03-30T07:19:40+01:00'
-draft: true
+draft: false
 title: 'Whats a Boy Supposed to Do?'
 ---
 
