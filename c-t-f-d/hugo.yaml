@@ -1,0 +1,11 @@
+baseURL: https://c-t-f-d.github.io
+languageCode: en-gb
+title: C-T-F-D
+theme: ["nostyleplease"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minifyOutput: true
