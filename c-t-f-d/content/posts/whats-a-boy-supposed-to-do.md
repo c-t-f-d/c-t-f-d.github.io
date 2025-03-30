@@ -1,7 +1,7 @@
 ---
 date: '2025-03-30T07:19:40+01:00'
 draft: false
-title: 'Whats a Boy Supposed to Do?'
+title: 'What's a Boy Supposed to Do?'
 ---
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/d1acEVmnVhI/0.jpg)](https://www.youtube.com/watch?v=d1acEVmnVhI)
